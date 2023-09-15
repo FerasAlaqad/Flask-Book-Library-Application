@@ -34,7 +34,7 @@ Before you begin, ensure you have the following prerequisites:
 
    ```shell
    pip install -r requirements.txt
-
+#### Note: Don't forget to change the database name in the website/__init__.py file to match your desired database name.
 ## Usage
 
 ### Homepage
