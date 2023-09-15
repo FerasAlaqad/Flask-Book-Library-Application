@@ -70,8 +70,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For more examples and inspiration, you can also check out the following GitHub repositories:
 
-1. [FerasAlaqad/MySQL_flask_library](https://github.com/FerasAlaqad/MySQL_flask_library)
-
+1. [parwiz123/flaskaws](https://github.com/parwiz123/flaskaws)
 2. [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial)
 
 For any inquiries or support, please contact [ferasdc18@gmail.com](mailto:ferasdc18@gmail.com).
