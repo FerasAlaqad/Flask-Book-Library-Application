@@ -27,7 +27,7 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/user/flask-library.git
+   git clone https://github.com/FerasAlaqad/Flask-Book-Library-Application.git
    cd flask-library
    
 1. Install dependencies:
